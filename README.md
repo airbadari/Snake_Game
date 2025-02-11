@@ -1,4 +1,4 @@
-# Snake
-Snake. Implemented in Processing with Python.
+# Snake Game
+A new UI I made for Snake.
 
-Appends colorful “bubbles” to the end of the snake for a visually appealing fluid motion.
+Originally created with Python in the Processing IDE. Converted into JavaScript & HTML.
